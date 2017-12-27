@@ -1,2 +1,2 @@
 # great78live
-A python script that plays each archived 78 rpm record as it is announced on the @great78project Twitter feed.
+A python script that plays archived 78 rpm records as announced on the @great78project Twitter feed.
